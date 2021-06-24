@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.git/
+README.md
+Dockerfile
+Dockerfile.migration
+docker-compose.yml
+.dockerignore
